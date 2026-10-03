@@ -4,7 +4,7 @@
 
 # Hi, I'm Muriithi Dennis 👋
 
-Data Scientist / Data Analyst with a BS in Applied Statistics and Computing, plus hands-on experience in business intelligence tools such as Power BI and Tableau.
+Data Scientist / Data Analyst with a BS in Applied Statistics and Computing, and experience in business intelligence tools such as Power BI and Tableau.
 
 I’m passionate about turning raw data into insights and building software that makes those insights useful in the real world. I’ve worked with R, analytics workflows, and reporting tools, and I’ve now grown into backend development, APIs, and AI integrations.
 
