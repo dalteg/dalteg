@@ -6,7 +6,7 @@
 
 Data Scientist / Data Analyst with a BS in Applied Statistics and Computing, and experience in business intelligence tools such as Power BI and Tableau.
 
-I’m passionate about turning raw data into insights and building software that makes those insights useful in the real world. I’ve worked with R, analytics workflows, and reporting tools, and I’ve now grown into backend development, APIs, and AI integrations.
+I’m passionate about turning raw data into insights and building software that makes those insights useful in the real world. I’ve worked with python, R, analytics workflows, and reporting tools, and I’ve now grown into backend development, APIs, and AI integrations.
 
 ## What I do
 - Data analysis and statistical modeling
